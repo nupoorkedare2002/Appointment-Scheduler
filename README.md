@@ -16,41 +16,9 @@ This project focuses on developing the frontend of an Appointment Scheduler desi
 - **Notifications**: Automated email or in-app notifications for appointment confirmations and reminders.
 - **Profile Management**: Users can update their personal information and manage their account settings.
 
-## User Registration and Login Flow
-1. User navigates to the registration page.
-2. User fills in registration details (name, email, password, etc.).
-3. System validates the information and creates a new user account.
-4. Upon successful registration, user is redirected to the login page.
-5. User logs in with their credentials.
-6. System verifies the credentials and grants access to the dashboard.
-
-## Dashboard Navigation
-1. Upon logging in, user is presented with the dashboard.
-2. User can see available options such as scheduling an appointment, viewing upcoming appointments, managing profile, etc.
-3. User selects "Schedule Appointment" option.
-
-## Appointment Scheduling Flow
-1. User is directed to the appointment scheduling page.
-2. User selects the type of counseling session (career, soft skills, or mental health).
-3. User views available time slots based on counselor availability.
-4. User selects a preferred time slot.
-5. System prompts user to confirm the appointment.
-6. User confirms the appointment.
-7. System sends confirmation email or notification to user and counselor.
-
-## Viewing Upcoming Appointments
-1. User navigates to the "Upcoming Appointments" section in the dashboard.
-2. User sees a list of their upcoming appointments.
-3. User has the option to cancel or reschedule appointments if needed.
-
-## Profile Management
-1. User navigates to the "Profile" section in the dashboard.
-2. User can update personal information, change password, etc.
-3. User saves changes, and system updates the user profile accordingly.
-
-## Logging Out
-1. User clicks on the logout button in the dashboard.
-2. System logs out the user and redirects to the login page.
+## Technologies Used
+- Frontend: React.js , GSAP , Framer Motion , Figma
+- CSS Framework: Bootstrap
 
 ## Data Models
 
@@ -83,9 +51,6 @@ This project focuses on developing the frontend of an Appointment Scheduler desi
 | Email       | VARCHAR   | Email address of the counselor |
 | Specialization | VARCHAR | Area of specialization (career counseling, soft skills improvement, mental health, etc.) |
 
-## Technologies Used
-- Frontend: React.js , GSAP , Framer Motion , Figma
-- CSS Framework: Bootstrap
 
 ## Installation and Setup
 1. Clone the repository:
