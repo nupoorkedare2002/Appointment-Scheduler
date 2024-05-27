@@ -16,9 +16,7 @@ This project focuses on developing the frontend of an Appointment Scheduler desi
 - **Notifications**: Automated email or in-app notifications for appointment confirmations and reminders.
 - **Profile Management**: Users can update their personal information and manage their account settings.
 
-## Technologies Used
-- Frontend: React.js , GSAP , Framer Motion , Figma
-- CSS Framework: Bootstrap
+
 
 ## Data Models
 
