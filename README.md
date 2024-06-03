@@ -16,6 +16,13 @@ This project focuses on developing the frontend of an Appointment Scheduler desi
 - **Notifications**: Automated email or in-app notifications for appointment confirmations and reminders.
 - **Profile Management**: Users can update their personal information and manage their account settings.
 
+## User Stories 
+
+- Present user stories to Explain how different types of users (students, counselors) will interact with the system. 
+- For example:
+- As a student, I want to view available time slots for counseling sessions.
+- As a counselor, I want to manage my availability and see booked appointments.
+- As an administrator, I want to monitor overall system activity and manage user accounts.
 
 
 ## Data Models
